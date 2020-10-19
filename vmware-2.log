@@ -1,4 +1,5 @@
-2020-10-14T21:06:32.416+08:00| vmx| I125: Log for VMware Workstation pid=1580 version=12.5.0 build=build-4352439 option=Release
+﻿2020-10-14T21:06:32.416+08:00| vmx| I125: Log for VMware Workstation pid=1581
+version=12.5.0 build=build-4352439 option=Release
 2020-10-14T21:06:32.416+08:00| vmx| I125: The process is 64-bit.
 2020-10-14T21:06:32.416+08:00| vmx| I125: Host codepage=windows-936 encoding=GBK
 2020-10-14T21:06:32.416+08:00| vmx| I125: Host is Windows 7 Ultimate, 64-bit Service Pack 1 (Build 7601)
